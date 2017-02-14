@@ -1,0 +1,2 @@
+# cms
+solr cloud search
